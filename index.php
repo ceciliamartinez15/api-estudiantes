@@ -15,7 +15,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'OPTIONS') {
 
 $server   = "michellemendez.database.windows.net";
 $database = "michelle";
-$username = "michellemendez";
+$username = "michelle";
 $password = "Tilin123456";  // ← tu contraseña real
 
 $conn = null;
